@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experience
+title: Education
 description: My Exp are here. # Add post description (optional)
 # needdate: true
 img: mac.jpg # Add image post (optional)
